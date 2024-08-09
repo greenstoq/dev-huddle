@@ -1,0 +1,1 @@
+web: ./build/install/dev-huddle/bin/dev-huddle
